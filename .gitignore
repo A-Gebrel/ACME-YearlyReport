@@ -1,0 +1,13 @@
+Dispatcher/.screenshots/
+Dispatcher/.project/
+.settings/
+.local/
+.objects/
+*PackageCache.json
+*ProjectSettings.json
+*.cache
+*.props
+*.backup
+*AllDependencies.json
+Performer/.project/
+Performer/.screenshots/
